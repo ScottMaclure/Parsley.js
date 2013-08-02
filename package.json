@@ -1,6 +1,7 @@
 {
     "name": "Parsley.js",
     "version": "1.1.16",
+    "private": true,
     "author": "Guillaume Potier <guillaume@wisembly.com>",
     "description": "Validate your forms, frontend, without writting a single line of javascript!",
     "repository": {
